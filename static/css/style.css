@@ -1,0 +1,26 @@
+body {
+    background: darkgray;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+article {
+    margin: 5px 5px;
+    padding: 5px 5px;
+}
+.card {
+    border: 3px solid darkslategrey;
+    border-radius: 12px;
+}
+
+.card2 {
+    border: solid 1px;
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+
+.bg-primary {
+    background-color: darkslategrey!important;
+}
